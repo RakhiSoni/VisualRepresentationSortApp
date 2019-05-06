@@ -1,4 +1,6 @@
 # VisualRepresentationSotApp
+
+This Repository contains Application code for 200 elements with delay to represent accurately and also 1000 elements sorting without delay.
 Application Code:
 
 This is a C++ Application to visualize the Bubble.
