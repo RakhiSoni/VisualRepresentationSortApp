@@ -183,6 +183,6 @@ only one perameter that y1 is being sort and after comparision of y1 elements th
 You can see the output gif and video aploaded in the repository to understand it better.
 .............
 
-
-Happy Coding..............
+Happy Coding
+Rakhi Soni
  
